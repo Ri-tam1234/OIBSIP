@@ -72,7 +72,8 @@ Web-Development-Projects/
 │
 ├── Landing-Page/
 │   ├── index.html
-│   └── style.css
+│   |── style.css
+|   |__images
 │
 ├── Portfolio-Website/
 │   ├── index.html
